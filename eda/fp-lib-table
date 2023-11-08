@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name ".stumbler")(type "KiCad")(uri "${STUMBLER_FOOTPRINT_DIR}/stumbler.pretty")(options "")(descr ""))
+  (lib (name ".vector")(type "KiCad")(uri "${KIPRJMOD}/../vector.pretty")(options "")(descr ""))
+)
