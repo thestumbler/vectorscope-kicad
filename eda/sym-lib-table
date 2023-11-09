@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name ".stumbler")(type "KiCad")(uri "${STUMBLER_SYMBOL_DIR}/stumbler.kicad_sym")(options "")(descr ""))
   (lib (name ".vector")(type "KiCad")(uri "${KIPRJMOD}/../vector.kicad_sym")(options "")(descr ""))
 )

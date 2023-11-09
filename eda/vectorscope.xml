@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/rclott/root/files/projs/my-vector/eda/vectorscope.kicad_sch</source>
+    <date/>
+    <tool>Eeschema (7.0.0-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>\n\n    VECTORSCOPE\n  SUPERCON 2023</title>
+        <company/>
+        <rev>-</rev>
+        <date>2023-11-08</date>
+        <source>vectorscope.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value="SCHEMATICS"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22uF</value>
+      <libsource lib=".vector" part="CAP_POL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b190ca2-e185-4564-b8f6-def461146309</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>22uF</value>
+      <libsource lib=".vector" part="CAP_POL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a06b231f-0fb5-4161-8725-2234b88226a7</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <libsource lib=".vector" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0d3e648-23df-4053-a610-1ae49a7b1816</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <libsource lib=".vector" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9d165ee-aaea-4c8f-ac8b-c7ee65469104</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>2.2uF</value>
+      <libsource lib=".vector" part="CAP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e37fa3f9-5f71-48a6-82ea-d972a9741e18</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>2.2uF</value>
+      <libsource lib=".vector" part="CAP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa5793ea-92d0-492e-ae6d-46baae43f257</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>2.2uF</value>
+      <libsource lib=".vector" part="CAP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f78e5056-51e6-4d21-9b7c-e4cdc5f03d2d</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>2.2uF</value>
+      <libsource lib=".vector" part="CAP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbfcf2e6-6377-4a66-8598-842e5b7acb50</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>2.2uF</value>
+      <libsource lib=".vector" part="CAP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d1639e6-43c8-474a-aae2-8bce93bc5a7d</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <libsource lib=".vector" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7b7d10f-7b7a-4f5b-973a-66778016f5f9</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <libsource lib=".vector" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6114bbe5-9b60-4f3f-9092-aacafa10ca86</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>2.2uF</value>
+      <libsource lib=".vector" part="CAP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6eea69c9-931f-4c59-aec8-d55786daa786</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <libsource lib=".vector" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6f2ad19-9740-4913-9c34-4330dd161e83</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <libsource lib=".vector" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95886391-5e8e-48d0-aa92-84313da1af67</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>2.2uF</value>
+      <libsource lib=".vector" part="CAP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32c19a5b-02e2-451f-b586-5f2cc99da11a</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>2.2uF</value>
+      <libsource lib=".vector" part="CAP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4c3bc9d-59a2-4ed1-8479-0ebffe734c57</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100nF</value>
+      <libsource lib=".vector" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45dc32b0-1485-4872-adb1-84044c404b46</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100nF</value>
+      <libsource lib=".vector" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ca8f2d7-5419-4760-b106-648ad6154cdc</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100nF</value>
+      <libsource lib=".vector" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2aa020a3-0750-410a-945a-380a12fee6e1</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100nF</value>
+      <libsource lib=".vector" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bb5767e-bdc0-4f6a-8206-c568a933334b</tstamps>
+    </comp>
+    <comp ref="DISP1">
+      <value>ATM0128B1</value>
+      <libsource lib=".vector" part="ATM0128B1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e2d9c0b-86ac-4085-85b5-e4d85a5e0877</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>EXT PWR</value>
+      <libsource lib=".vector" part="IO_JACK_M2x02B" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2cde0cc-26fd-4df1-a568-80d3cfdd9ff6</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>IO CONNECTOR</value>
+      <libsource lib=".vector" part="IO_JACK_M12" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0150b73-dc15-4992-84fb-54b895aa431e</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>SCOPE</value>
+      <libsource lib=".vector" part="IO_JACK_M04" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7944ee56-f6fd-44ef-9cab-590d5723fc8d</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>SIGGEN</value>
+      <libsource lib=".vector" part="IO_JACK_M04" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60417636-ac66-4851-b444-e6d1115a3af4</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>47uH</value>
+      <libsource lib=".vector" part="L_Core_Iron" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6df6aa6-7785-4477-ad99-bbe6f9f1f1e1</tstamps>
+    </comp>
+    <comp ref="LS1">
+      <value>SPEAKER</value>
+      <libsource lib=".vector" part="Speaker" description="Speaker"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Speaker"/>
+      <property name="ki_keywords" value="speaker sound"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60924cb5-a448-49b3-ae59-ec8244cc5e49</tstamps>
+    </comp>
+    <comp ref="LY1">
+      <value>APT2012SYCK</value>
+      <libsource lib=".vector" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65723be1-a6f2-4521-8aa4-173a8d75c52f</tstamps>
+    </comp>
+    <comp ref="LY2">
+      <value>APT2012SYCK</value>
+      <libsource lib=".vector" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a383ccd0-828b-4a21-ae60-101951bd0943</tstamps>
+    </comp>
+    <comp ref="LY3">
+      <value>APT2012SYCK</value>
+      <libsource lib=".vector" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c5b8e8c-ca47-4d2b-bd15-b2de0ab592f3</tstamps>
+    </comp>
+    <comp ref="LY4">
+      <value>APT2012SYCK</value>
+      <libsource lib=".vector" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d503963-155a-4ab2-9fb3-9d2976f27d0f</tstamps>
+    </comp>
+    <comp ref="LY5">
+      <value>APT2012SYCK</value>
+      <libsource lib=".vector" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9814282e-4373-4bfe-9a04-b587e88a7796</tstamps>
+    </comp>
+    <comp ref="LY6">
+      <value>APT2012SYCK</value>
+      <libsource lib=".vector" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dba2690-7caf-43f9-bf0e-e6cfe78d40ce</tstamps>
+    </comp>
+    <comp ref="LY7">
+      <value>APT2012SYCK</value>
+      <libsource lib=".vector" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bc2e8bd-bc05-4a2f-869d-891ac44d4904</tstamps>
+    </comp>
+    <comp ref="LY8">
+      <value>APT2012SYCK</value>
+      <libsource lib=".vector" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b67fe5eb-542c-4b7d-8dd3-cadd60eaf14e</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>DMG2301L</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/DMG2301L.pdf</datasheet>
+      <libsource lib=".vector" part="DMG2301L" description="-3A Id, -20V Vds, P-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="-3A Id, -20V Vds, P-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="P-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a31a84cc-a76c-420c-aa5e-8499acf7da6c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>22</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0e7d734-b610-4ff2-81ef-f84261dbec13</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>2K7</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5acf686-fd27-4425-b15a-37f22e7ecf2f</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>47K</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4187974f-db95-4c96-bdac-c10ac5f29bc4</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>22K</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e1fb7f4-3180-46fe-b374-31b1fb2bbe16</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>4K7</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6e47be0-9d84-4751-9230-573500b934f1</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>4K7</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30c3163a-2f65-4d95-b42b-238c6cb020ad</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>4K7</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>affb8017-ab92-488b-a5c2-aa44d5920299</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>33R</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1ff75f9-6eea-49a1-8b41-70d525b33a76</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>680R</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae656ceb-7b94-47a6-bace-362b5be328ae</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>680R</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd6f2c9d-e256-4db0-be7d-ebb3b6fb97a1</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>680R</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>173f300b-4805-4d42-96a0-c7e8c3a1078c</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>2K7</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17e8d694-585e-4d5f-a016-c529c58472e0</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>2K7</value>
+      <libsource lib=".vector" part="RES" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5300ed8c-7402-4104-8b9d-c140b9a0affb</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>USER</value>
+      <libsource lib=".vector" part="SW_Push_45circle" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee44aa60-8fec-457d-86c9-6eade39b20a4</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SAVE</value>
+      <libsource lib=".vector" part="SW_Push_45circle" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2aa4245a-2557-4839-bb4e-4524df090d0d</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_A</value>
+      <libsource lib=".vector" part="SW_Push_45circle" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e811d8f9-d3fa-4e5c-b3b9-9a1b79073406</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_B</value>
+      <libsource lib=".vector" part="SW_Push_45circle" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7b708b3-dd1a-4ffd-aa28-6ff0ebfdf601</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_C</value>
+      <libsource lib=".vector" part="SW_Push_45circle" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d0cc87a-6c1a-4a07-a650-ed210b82789c</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_D</value>
+      <libsource lib=".vector" part="SW_Push_45circle" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e05ae0a1-e79a-40c5-8e9f-b96e2c912f90</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>XY</value>
+      <libsource lib=".vector" part="SW_Push_45circle" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d08efed8-e4a1-4330-995d-4f701f3bd41e</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>WAVE</value>
+      <libsource lib=".vector" part="SW_Push_45circle" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6e0929d-75ac-4aa1-b0e6-63224d24ca52</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SEL</value>
+      <libsource lib=".vector" part="SW_Push_45circle" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee8e5eed-152a-4406-accc-c77b667b2149</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>MENU</value>
+      <libsource lib=".vector" part="SW_Push_45circle_big" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a87c80e-9a57-4b95-97d9-9824952d6cef</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>LEVEL</value>
+      <libsource lib=".vector" part="SW_Push_45circle_big" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f4d218e-3f7b-4a4e-9dec-263005e25f95</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>RANGE</value>
+      <libsource lib=".vector" part="SW_Push_45circle_big" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>511c64fd-80ed-4477-934e-f3a002174f8c</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>JOYSTICK</value>
+      <libsource lib=".vector" part="SW_JOYSTICK" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66038399-6022-4e2d-9770-335831103933</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>PWR</value>
+      <libsource lib=".vector" part="SW_SPDT_SLIDE" description="Switch, single pole double throw"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Switch, single pole double throw"/>
+      <property name="ki_keywords" value="switch single-pole double-throw spdt ON-ON"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfd40a0d-7004-4f9d-8b94-77b0e709a1f4</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TP_EXT_PAD</value>
+      <libsource lib=".vector" part="TestPoint_Alt" description="test point (alternative shape)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="test point (alternative shape)"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed82cc94-37b6-47e9-9d8a-6b3e2519005a</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TP_EXT_PAD</value>
+      <libsource lib=".vector" part="TestPoint_Alt" description="test point (alternative shape)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="test point (alternative shape)"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ba76d8e-1743-4c60-a586-88743fdd25e6</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>AK4619VN</value>
+      <footprint>Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm</footprint>
+      <libsource lib=".vector" part="AK4619VN" description="Audio CODEC, QFN-32"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Audio CODEC, QFN-32"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1c3fd21-054d-4cda-8c33-6a1b22995d60</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LMV324</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lmv324.pdf</datasheet>
+      <libsource lib=".vector" part="LMV324" description="Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14"/>
+      <property name="ki_keywords" value="quad opamp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc78a013-8c1f-4f6f-94c7-e78bd0d40a83 8104369e-7f82-402d-92a8-a353cb5b3e7f 6bea79e7-a8f3-4028-a56b-ed5cc99a362e 681bd6f7-8eed-419d-a88b-c97f2e8ed76a 37f9671f-b82b-44e5-a5b5-367c047ca617</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TLC59283</value>
+      <footprint>Package_SO:TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/tlc59283.pdf?ts=1699266477661&amp;ref_url=https%253A%252F%252Fwww.google.com%252F</datasheet>
+      <libsource lib=".vector" part="TLC59283" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8dd658f-1ba7-4d4c-80d5-bc76eda8f737</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TPA321</value>
+      <libsource lib=".vector" part="TPA321" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1aa81059-e742-485f-989b-f7150553efb1</tstamps>
+    </comp>
+    <comp ref="XBT1">
+      <value>AA SOCKET</value>
+      <libsource lib=".vector" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Single-cell battery"/>
+      <property name="ki_keywords" value="battery cell"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ded61c6-17eb-4e3d-a3cd-c3f7302ddb72</tstamps>
+    </comp>
+    <comp ref="XBT2">
+      <value>AA SOCKET</value>
+      <libsource lib=".vector" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Single-cell battery"/>
+      <property name="ki_keywords" value="battery cell"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae56abac-c694-41d3-8956-2421d557e476</tstamps>
+    </comp>
+    <comp ref="XM1">
+      <value>SC0918</value>
+      <footprint>Raspberry Pi:MODULE_SC0918</footprint>
+      <datasheet>https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf</datasheet>
+      <fields>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.73mm</field>
+        <field name="P/N">SC0918</field>
+        <field name="PARTREV">1.6</field>
+        <field name="manufacturer">Raspberry Pi Pico</field>
+      </fields>
+      <libsource lib=".vector" part="SC0918" description=""/>
+      <property name="manufacturer" value="Raspberry Pi Pico"/>
+      <property name="P/N" value="SC0918"/>
+      <property name="PARTREV" value="1.6"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.73mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>222891de-dc52-4e45-b935-8565f790cc6a</tstamps>
+    </comp>
+    <comp ref="ZD1">
+      <value>3.0V</value>
+      <libsource lib=".vector" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vectorscope.kicad_sch"/>
+      <property name="ki_description" value="Zener diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba5f5111-a38b-4ac4-b92a-75cc9b2ff3cc</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib=".vector" part="AK4619VN">
+      <description>Audio CODEC, QFN-32</description>
+      <footprints>
+        <fp>QFN*1EP*5x5mm*0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AK4619VN</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDIN1" type="input"/>
+        <pin num="2" name="SDIN2" type="input"/>
+        <pin num="3" name="TVDD" type="passive"/>
+        <pin num="4" name="DGND" type="passive"/>
+        <pin num="5" name="AVDRV" type="passive"/>
+        <pin num="7" name="BICK" type="bidirectional"/>
+        <pin num="8" name="MCLK" type="input"/>
+        <pin num="9" name="IN4N" type="input"/>
+        <pin num="10" name="IN4P" type="input"/>
+        <pin num="11" name="IN3N" type="input"/>
+        <pin num="12" name="IN3P" type="input"/>
+        <pin num="13" name="IN2N" type="input"/>
+        <pin num="14" name="IN2P" type="input"/>
+        <pin num="15" name="IN1N" type="input"/>
+        <pin num="16" name="IN1P" type="input"/>
+        <pin num="17" name="VCOM" type="passive"/>
+        <pin num="18" name="AVDD" type="passive"/>
+        <pin num="19" name="AGND" type="passive"/>
+        <pin num="20" name="VREFL" type="passive"/>
+        <pin num="21" name="VREFH" type="passive"/>
+        <pin num="22" name="AOUT1L" type="output"/>
+        <pin num="23" name="AOUT1R" type="output"/>
+        <pin num="24" name="AOUT2L" type="output"/>
+        <pin num="25" name="AOUT2R" type="output"/>
+        <pin num="26" name="PDN" type="input"/>
+        <pin num="28" name="LRCK" type="bidirectional"/>
+        <pin num="30" name="SDA" type="bidirectional"/>
+        <pin num="31" name="SDOUT1" type="output"/>
+        <pin num="32" name="SDOUT2" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="ATM0128B1">
+      <footprints>
+        <fp>Bosch*LGA*3x2.5mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATM0128B1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="LEDC" type="passive"/>
+        <pin num="3" name="LEDA" type="passive"/>
+        <pin num="4" name="V+" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="~{RES}" type="passive"/>
+        <pin num="9" name="SCL" type="input"/>
+        <pin num="10" name="SDA" type="bidirectional"/>
+        <pin num="11" name="D/~{C}" type="passive"/>
+        <pin num="12" name="GND" type="passive"/>
+        <pin num="17" name="~{CS}" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="C">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="CAP">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="CAP_POL">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP_POL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="DMG2301L">
+      <description>-3A Id, -20V Vds, P-Channel MOSFET, SOT-23</description>
+      <docs>https://www.diodes.com/assets/Datasheets/DMG2301L.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DMG2301L</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/DMG2301L.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="IO_JACK_M04">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">IO_JACK_M04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="IO_JACK_M12">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">IO_JACK_M12</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="IO_JACK_M2x02B">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">IO_JACK_M2x02B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="IO_PLUG_USB">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">IO_PLUG_USB</field>
+      </fields>
+    </libpart>
+    <libpart lib=".vector" part="LED">
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="LMV324">
+      <description>Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lmv324.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LMV324</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lmv324.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="passive"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="passive"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="L_Core_Iron">
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Core_Iron</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="RES">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RES</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="SC0918">
+      <docs>https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf</docs>
+      <fields>
+        <field name="Reference">A1</field>
+        <field name="Value">SC0918</field>
+        <field name="Footprint">Raspberry Pi:MODULE_SC0918</field>
+        <field name="Datasheet">https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf</field>
+        <field name="manufacturer">Raspberry Pi Pico</field>
+        <field name="P/N">SC0918</field>
+        <field name="PARTREV">1.6</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.73mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GP0" type="bidirectional"/>
+        <pin num="2" name="GP1" type="bidirectional"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="GP2" type="bidirectional"/>
+        <pin num="5" name="GP3" type="bidirectional"/>
+        <pin num="6" name="GP4" type="bidirectional"/>
+        <pin num="7" name="GP5" type="bidirectional"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="GP6" type="bidirectional"/>
+        <pin num="10" name="GP7" type="bidirectional"/>
+        <pin num="11" name="GP8" type="bidirectional"/>
+        <pin num="12" name="GP9" type="bidirectional"/>
+        <pin num="13" name="GND" type="passive"/>
+        <pin num="14" name="GP10" type="bidirectional"/>
+        <pin num="15" name="GP11" type="bidirectional"/>
+        <pin num="16" name="GP12" type="bidirectional"/>
+        <pin num="17" name="GP13" type="bidirectional"/>
+        <pin num="18" name="GND" type="passive"/>
+        <pin num="19" name="GP14" type="bidirectional"/>
+        <pin num="20" name="GP15" type="bidirectional"/>
+        <pin num="21" name="GP16" type="bidirectional"/>
+        <pin num="22" name="GP17" type="bidirectional"/>
+        <pin num="23" name="GND" type="passive"/>
+        <pin num="24" name="GP18" type="bidirectional"/>
+        <pin num="25" name="GP19" type="bidirectional"/>
+        <pin num="26" name="GP20" type="bidirectional"/>
+        <pin num="27" name="GP21" type="bidirectional"/>
+        <pin num="28" name="GND" type="passive"/>
+        <pin num="29" name="GP22" type="bidirectional"/>
+        <pin num="30" name="RUN" type="input"/>
+        <pin num="31" name="GP26" type="bidirectional"/>
+        <pin num="32" name="GP27" type="bidirectional"/>
+        <pin num="33" name="AGND" type="passive"/>
+        <pin num="34" name="GP28" type="bidirectional"/>
+        <pin num="35" name="ADC_VREF" type="power_in"/>
+        <pin num="36" name="3V3_OUT" type="power_out"/>
+        <pin num="37" name="3V3_EN" type="input"/>
+        <pin num="38" name="GND" type="passive"/>
+        <pin num="39" name="VSYS" type="passive"/>
+        <pin num="40" name="VBUS" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="SW_JOYSTICK">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW?</field>
+        <field name="Value">SW_JOYSTICK</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+        <pin num="4" name="B" type="passive"/>
+        <pin num="5" name="B" type="passive"/>
+        <pin num="6" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="SW_Push_45circle">
+      <description>Push button switch, normally open, two pins, 45° tilted</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push_45circle</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="SW_Push_45circle_big">
+      <description>Push button switch, normally open, two pins, 45° tilted</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push_45circle_big</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="SW_SPDT_SLIDE">
+      <description>Switch, single pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT_SLIDE</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="Speaker">
+      <description>Speaker</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">LS</field>
+        <field name="Value">Speaker</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="TLC59283">
+      <docs>https://www.ti.com/lit/ds/symlink/tlc59283.pdf?ts=1699266477661&amp;ref_url=https%253A%252F%252Fwww.google.com%252F</docs>
+      <footprints>
+        <fp>TSSOP*1EP*4.4x7.8mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLC59283</field>
+        <field name="Footprint">Package_SO:TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/tlc59283.pdf?ts=1699266477661&amp;ref_url=https%253A%252F%252Fwww.google.com%252F</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="SDI" type="input"/>
+        <pin num="3" name="CLK" type="input"/>
+        <pin num="4" name="~{LOAD}" type="input"/>
+        <pin num="5" name="OUT0" type="output"/>
+        <pin num="6" name="OUT1" type="output"/>
+        <pin num="7" name="OUT2" type="output"/>
+        <pin num="8" name="OUT3" type="output"/>
+        <pin num="9" name="OUT4" type="output"/>
+        <pin num="10" name="OUT5" type="output"/>
+        <pin num="11" name="OUT6" type="output"/>
+        <pin num="12" name="OUT7" type="output"/>
+        <pin num="13" name="OUT8" type="output"/>
+        <pin num="14" name="OUT9" type="output"/>
+        <pin num="15" name="OUT10" type="output"/>
+        <pin num="16" name="OUT11" type="output"/>
+        <pin num="17" name="OUT12" type="output"/>
+        <pin num="18" name="OUT13" type="output"/>
+        <pin num="19" name="OUT14" type="output"/>
+        <pin num="20" name="OUT15" type="output"/>
+        <pin num="21" name="~{OEN}" type="input"/>
+        <pin num="22" name="SDO" type="output"/>
+        <pin num="23" name="R-EXT" type="passive"/>
+        <pin num="24" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="TPA321">
+      <footprints>
+        <fp>WSON*EP*4x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPA321</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SHDN" type="output"/>
+        <pin num="2" name="BYP" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="" type="output"/>
+        <pin num="6" name="V+" type="passive"/>
+        <pin num="7" name="V-" type="passive"/>
+        <pin num="8" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib=".vector" part="TestPoint_Alt">
+      <description>test point (alternative shape)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_Alt</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical=".vector">
+      <uri>/Users/rclott/root/files/projs/my-vector/eda/../vector.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="TVDD" pintype="passive"/>
+      <node ref="U3" pin="24" pinfunction="VDD" pintype="power_in"/>
+      <node ref="XM1" pin="36" pinfunction="3V3_OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="/BATT+">
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="SW14" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="XBT1" pin="1" pinfunction="+" pintype="passive"/>
+    </net>
+    <net code="3" name="/BICK">
+      <node ref="U1" pin="7" pinfunction="BICK" pintype="bidirectional"/>
+      <node ref="XM1" pin="11" pinfunction="GP8" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/COD_SCL">
+      <node ref="U1" pin="28" pinfunction="SCL" pintype="input"/>
+      <node ref="XM1" pin="27" pinfunction="GP21" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/COD_SDA">
+      <node ref="U1" pin="30" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="XM1" pin="26" pinfunction="GP20" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/COL0">
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="OUT8" pintype="output"/>
+    </net>
+    <net code="7" name="/COL1">
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="OUT9" pintype="output"/>
+    </net>
+    <net code="8" name="/COL2">
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="OUT10" pintype="output"/>
+    </net>
+    <net code="9" name="/COL3">
+      <node ref="SW13" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="OUT11" pintype="output"/>
+    </net>
+    <net code="10" name="/COL4">
+      <node ref="SW13" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="OUT12" pintype="output"/>
+    </net>
+    <net code="11" name="/COL5">
+      <node ref="SW13" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="OUT13" pintype="output"/>
+    </net>
+    <net code="12" name="/COL6">
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW13" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="19" pinfunction="OUT14" pintype="output"/>
+    </net>
+    <net code="13" name="/COL7">
+      <node ref="SW13" pin="6" pinfunction="B" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="20" pinfunction="OUT15" pintype="output"/>
+    </net>
+    <net code="15" name="/DISP_D{slash}~{C}">
+      <node ref="DISP1" pin="11" pinfunction="D/~{C}" pintype="passive"/>
+      <node ref="XM1" pin="7" pinfunction="GP5" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/DISP_SCL">
+      <node ref="DISP1" pin="9" pinfunction="SCL" pintype="input"/>
+      <node ref="XM1" pin="4" pinfunction="GP2" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/DISP_SDA">
+      <node ref="DISP1" pin="10" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="XM1" pin="5" pinfunction="GP3" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/DISP_~{RST}">
+      <node ref="DISP1" pin="7" pinfunction="~{RES}" pintype="passive"/>
+      <node ref="XM1" pin="6" pinfunction="GP4" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/GP26">
+      <node ref="J2" pin="4" pintype="passive"/>
+      <node ref="XM1" pin="31" pinfunction="GP26" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/GP27">
+      <node ref="J2" pin="5" pintype="passive"/>
+      <node ref="XM1" pin="32" pinfunction="GP27" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/GP28">
+      <node ref="J2" pin="6" pintype="passive"/>
+      <node ref="XM1" pin="34" pinfunction="GP28" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/IN1">
+      <node ref="J2" pin="8" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="IN1P" pintype="input"/>
+    </net>
+    <net code="23" name="/IN2">
+      <node ref="J2" pin="9" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="IN2P" pintype="input"/>
+    </net>
+    <net code="24" name="/IO_CLK">
+      <node ref="U3" pin="3" pinfunction="CLK" pintype="input"/>
+      <node ref="XM1" pin="1" pinfunction="GP0" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/IO_SDI">
+      <node ref="U3" pin="2" pinfunction="SDI" pintype="input"/>
+      <node ref="XM1" pin="2" pinfunction="GP1" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/IO_~{LOAD}">
+      <node ref="U3" pin="4" pinfunction="~{LOAD}" pintype="input"/>
+      <node ref="XM1" pin="21" pinfunction="GP16" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/LED0">
+      <node ref="LY1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="OUT0" pintype="output"/>
+    </net>
+    <net code="28" name="/LED1">
+      <node ref="LY2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="OUT1" pintype="output"/>
+    </net>
+    <net code="29" name="/LED2">
+      <node ref="LY3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="OUT2" pintype="output"/>
+    </net>
+    <net code="30" name="/LED3">
+      <node ref="LY4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="OUT3" pintype="output"/>
+    </net>
+    <net code="31" name="/LED4">
+      <node ref="LY5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="OUT4" pintype="output"/>
+    </net>
+    <net code="32" name="/LED5">
+      <node ref="LY6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="OUT5" pintype="output"/>
+    </net>
+    <net code="33" name="/LED6">
+      <node ref="LY7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="OUT6" pintype="output"/>
+    </net>
+    <net code="34" name="/LED7">
+      <node ref="LY8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="OUT7" pintype="output"/>
+    </net>
+    <net code="36" name="/LRCK">
+      <node ref="U1" pin="28" pinfunction="LRCK" pintype="bidirectional"/>
+      <node ref="XM1" pin="12" pinfunction="GP9" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/MCLK">
+      <node ref="U1" pin="8" pinfunction="MCLK" pintype="input"/>
+      <node ref="XM1" pin="10" pinfunction="GP7" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="/OUT3">
+      <node ref="J2" pin="10" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="39" name="/OUT4">
+      <node ref="J2" pin="11" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U2" pin="7" pintype="output"/>
+    </net>
+    <net code="40" name="/PDN">
+      <node ref="U1" pin="26" pinfunction="PDN" pintype="input"/>
+      <node ref="XM1" pin="9" pinfunction="GP6" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/ROW0">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="XM1" pin="22" pinfunction="GP17" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="/ROW1">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW13" pin="5" pinfunction="B" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="XM1" pin="24" pinfunction="GP18" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="/SCL">
+      <node ref="J1" pin="4" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="XM1" pin="20" pinfunction="GP15" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/SCOPE_X">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="IN4P" pintype="input"/>
+    </net>
+    <net code="45" name="/SCOPE_Y">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="IN3P" pintype="input"/>
+    </net>
+    <net code="46" name="/SDA">
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="XM1" pin="19" pinfunction="GP14" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="/SDIN1">
+      <node ref="U1" pin="1" pinfunction="SDIN1" pintype="input"/>
+      <node ref="XM1" pin="14" pinfunction="GP10" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="/SDIN2">
+      <node ref="U1" pin="2" pinfunction="SDIN2" pintype="input"/>
+      <node ref="XM1" pin="15" pinfunction="GP11" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/SDOUT1">
+      <node ref="U1" pin="31" pinfunction="SDOUT1" pintype="output"/>
+      <node ref="XM1" pin="16" pinfunction="GP12" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="/SDOUT2">
+      <node ref="U1" pin="32" pinfunction="SDOUT2" pintype="output"/>
+      <node ref="XM1" pin="17" pinfunction="GP13" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="/SHUTUP">
+      <node ref="U4" pin="1" pinfunction="SHDN" pintype="output"/>
+      <node ref="XM1" pin="29" pinfunction="GP22" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="/SIGGEN_X">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="8" pintype="output"/>
+      <node ref="U2" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="53" name="/SIGGEN_Y">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U2" pin="14" pintype="output"/>
+    </net>
+    <net code="54" name="/SIG_OUT1">
+      <node ref="U1" pin="22" pinfunction="AOUT1L" pintype="output"/>
+      <node ref="U2" pin="10" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="55" name="/SIG_OUT2">
+      <node ref="U1" pin="23" pinfunction="AOUT1R" pintype="output"/>
+      <node ref="U2" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="56" name="/SIG_OUT3">
+      <node ref="U1" pin="24" pinfunction="AOUT2L" pintype="output"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="57" name="/SIG_OUT4">
+      <node ref="U1" pin="25" pinfunction="AOUT2R" pintype="output"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="58" name="/SW_~{USER}">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="XM1" pin="25" pinfunction="GP19" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="GNDA">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J2" pin="12" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="AGND" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="VREFL" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="V-" pintype="passive"/>
+      <node ref="ZD1" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="60" name="GNDD">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="DISP1" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="DISP1" pin="12" pinfunction="GND" pintype="passive"/>
+      <node ref="DISP1" pin="17" pinfunction="~{CS}" pintype="input"/>
+      <node ref="DISP1" pin="2" pinfunction="LEDC" pintype="passive"/>
+      <node ref="DISP1" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="DISP1" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="J2" pin="7" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="DGND" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="V-" pintype="passive"/>
+      <node ref="XBT2" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="XM1" pin="13" pinfunction="GND" pintype="passive"/>
+      <node ref="XM1" pin="18" pinfunction="GND" pintype="passive"/>
+      <node ref="XM1" pin="23" pinfunction="GND" pintype="passive"/>
+      <node ref="XM1" pin="28" pinfunction="GND" pintype="passive"/>
+      <node ref="XM1" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="XM1" pin="33" pinfunction="AGND" pintype="passive"/>
+      <node ref="XM1" pin="38" pinfunction="GND" pintype="passive"/>
+      <node ref="XM1" pin="8" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(DISP1-LEDA)">
+      <node ref="DISP1" pin="3" pinfunction="LEDA" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(DISP1-V+)">
+      <node ref="DISP1" pin="4" pinfunction="V+" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(J3-Pin_1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(J4-Pin_1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(LS1-Pad1)">
+      <node ref="LS1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pintype="output"/>
+    </net>
+    <net code="67" name="Net-(LS1-Pad2)">
+      <node ref="LS1" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U4" pin="8" pintype="output"/>
+    </net>
+    <net code="68" name="Net-(LY1-A)">
+      <node ref="LY1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LY2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(LY3-A)">
+      <node ref="LY3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LY4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LY5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LY6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(LY7-A)">
+      <node ref="LY7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LY8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(Q1-D)">
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="XM1" pin="39" pinfunction="VSYS" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(Q1-G)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="XM1" pin="40" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(Q1-S)">
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(SW14-A)">
+      <node ref="SW14" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(U1-AVDD)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="AVDD" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(U1-AVDRV)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="AVDRV" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(U1-IN1N)">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="IN1N" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(U1-IN2N)">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="IN2N" pintype="input"/>
+    </net>
+    <net code="80" name="Net-(U1-IN3N)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="IN3N" pintype="input"/>
+    </net>
+    <net code="81" name="Net-(U1-IN4N)">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="IN4N" pintype="input"/>
+    </net>
+    <net code="82" name="Net-(U1-VCOM)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="VCOM" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(U1-VREFH)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="VREFH" pintype="passive"/>
+      <node ref="ZD1" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(U2E-V+)">
+      <node ref="U2" pin="4" pinfunction="V+" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(U3-R-EXT)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="~{OEN}" pintype="input"/>
+      <node ref="U3" pin="23" pinfunction="R-EXT" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(U4-+)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="BYP" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="87" name="Net-(U4--)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="88" name="Net-(U4-V+)">
+      <node ref="U4" pin="6" pinfunction="V+" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(XBT1--)">
+      <node ref="XBT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="XBT2" pin="1" pinfunction="+" pintype="passive"/>
+    </net>
+    <net code="90" name="unconnected-(U3-SDO-Pad22)">
+      <node ref="U3" pin="22" pinfunction="SDO" pintype="output+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(XM1-3V3_EN-Pad37)">
+      <node ref="XM1" pin="37" pinfunction="3V3_EN" pintype="input+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(XM1-ADC_VREF-Pad35)">
+      <node ref="XM1" pin="35" pinfunction="ADC_VREF" pintype="power_in+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(XM1-RUN-Pad30)">
+      <node ref="XM1" pin="30" pinfunction="RUN" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
