@@ -87,7 +87,7 @@
   (net 2 "3V3")
   (net 3 "GND")
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 05d7c979-250b-47d8-8071-da72c82d4247)
     (at 164.62665 99.4731)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -106,7 +106,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 0e9fd057-8793-4987-b06c-4affd3c80c7c)
     (at 160.28365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -121,7 +121,7 @@
       (net 1 "AGND") (tstamp 7f5e85f9-8107-47db-b927-e51a2efe7d9a))
   )
 
-  (footprint "vector-orig:key 12x12 SMD" (layer "F.Cu")
+  (footprint ".vector-orig:key 12x12 SMD" (layer "F.Cu")
     (tstamp 10324d7b-131f-4206-a7f5-4e867de66b20)
     (at 118.24665 99.5153)
     (fp_text reference "SW12" (at -5.6466 -9.55243 unlocked) (layer "F.SilkS") hide
@@ -171,7 +171,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 12b66878-8c50-4a73-91ca-f7c38b016456)
     (at 196.46105 124.4639)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -185,7 +185,7 @@
     (pad "" thru_hole circle (at 0 0 270) (size 1.778 1.778) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp c5051f4e-4c5d-4281-8534-bb367f249e80))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 1339ae99-8ee3-451e-9219-9fe3060bbf24)
     (at 96.22445 75.8257)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -200,7 +200,7 @@
       (solder_mask_margin 0.254) (tstamp 631a3a26-03a9-44cb-8e01-6ec7a16d9aa0))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 15fe731d-a4b0-4626-b5ba-fd277d96b490)
     (at 198.26365 105.1273)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -220,7 +220,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 1723dbe3-b9a9-4de2-81d7-4de24a473ef9)
     (at 185.55777 128.9793)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -244,7 +244,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 1747794f-f710-43d2-beb3-a701471f100a)
     (at 172.98365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -259,7 +259,7 @@
       (net 3 "GND") (tstamp 5bf3dcfb-6dad-4df3-a6ae-906a293ab94d))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 1aae2ec7-3c1e-417f-b99c-7d3b768eb91f)
     (at 150.09005 95.5107)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -273,7 +273,7 @@
     (pad "" thru_hole circle (at 0 0 270) (size 0.001 0.001) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp 57b3a09d-7715-439d-b4a8-dcfef2599b25))
   )
 
-  (footprint "vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
     (tstamp 1ad8cc16-c14f-46d6-bb55-252b584bb4fa)
     (at 135.31865 105.6113 -90)
     (fp_text reference "SW5" (at -4.8944 -3.5548 270 unlocked) (layer "F.SilkS") hide
@@ -311,7 +311,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 1bf40efe-3919-4e8a-b86e-6a4f0480f6d5)
     (at 199.00105 124.4639)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -325,7 +325,7 @@
     (pad "" thru_hole circle (at 0 0 270) (size 1.778 1.778) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp a07f6ea5-8e07-4886-b979-6fb31e6e835a))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 226f316e-c692-409b-a4ff-2f138c8ce395)
     (at 152.51085 102.5973)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -339,7 +339,7 @@
     (pad "HOLE" thru_hole circle (at 0 0 270) (size 0.001 0.001) (drill 1.524) (layers "*.Cu" "*.Mask") (tstamp 9a65aa82-7887-4d12-87ef-fcca4003030a))
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
     (tstamp 23c8649d-d508-4b86-9943-18bcd09ee03e)
     (at 108.59465 102.2839 -90)
     (fp_text reference "LY4" (at 1.60528 -1.35632 270 unlocked) (layer "B.SilkS") hide
@@ -361,7 +361,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
     (tstamp 24964881-9b3b-479f-b173-fd1a6a48a30e)
     (at 105.03865 102.3347 -90)
     (fp_text reference "LY3" (at 1.60528 -1.35632 270 unlocked) (layer "B.SilkS") hide
@@ -383,7 +383,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 26b40c21-18ea-49c2-aba3-8fe5b6708f37)
     (at 153.87945 89.7717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -398,7 +398,7 @@
       (thermal_bridge_angle 45) (tstamp f5ee9e32-8d78-461e-8765-a9309f47626f))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 2a2885b0-f07c-4742-ad7a-d074a1948361)
     (at 196.43565 121.8625)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -418,7 +418,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 30020622-873f-471c-8d42-ca7241f0535b)
     (at 199.90165 88.9933)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -433,7 +433,7 @@
       (net 3 "GND") (thermal_bridge_angle 45) (tstamp 10723885-0f1f-4423-b39e-80b22cd1306c))
   )
 
-  (footprint "vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
     (tstamp 3287577b-5d92-4926-8fa1-da860850a908)
     (at 135.34045 118.0405 -90)
     (fp_text reference "SW6" (at -4.8944 -3.5548 270 unlocked) (layer "F.SilkS") hide
@@ -471,7 +471,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
     (tstamp 38b788cf-9c61-40c5-9c7c-d66837a0ff89)
     (at 98.05365 116.7873 -90)
     (fp_text reference "SW9" (at -4.8944 -3.5548 270 unlocked) (layer "F.SilkS") hide
@@ -509,7 +509,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 3eaa0c0b-8199-4050-85a1-b95e32074d28)
     (at 198.97565 121.8625)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -523,7 +523,7 @@
     (pad "" thru_hole circle (at 0 0 270) (size 1.778 1.778) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp 5b1b01f5-74e7-4baa-8f64-b18dfd81d10e))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 3eca16f9-c871-4630-8155-ffbdfeb6e9b6)
     (at 103.16919 76.7569)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -537,7 +537,7 @@
     (pad "1V5" thru_hole circle (at 0 0 90) (size 1.5748 1.5748) (drill 0.889) (layers "*.Cu" "*.Mask") (tstamp dda8f12c-d5d1-444f-b5bd-b3f88abed87d))
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
     (tstamp 415b8ed5-94dd-464c-a055-5b4eb8a2a2de)
     (at 108.59465 81.4559 -90)
     (fp_text reference "LY8" (at 1.60528 -1.35632 270 unlocked) (layer "B.SilkS") hide
@@ -559,7 +559,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_JOYSTICK 2" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_JOYSTICK 2" (layer "F.Cu")
     (tstamp 43ba102b-3348-48bd-a3d8-ad96bb95019c)
     (at 117.17945 124.4413 -45)
     (fp_text reference "SW13" (at -3.198103 -2.228235 315 unlocked) (layer "F.SilkS")
@@ -607,7 +607,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 4933b11e-992f-4d33-9943-0ae0cead3550)
     (at 199.65365 134.6943)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -621,7 +621,7 @@
     (pad "HOLE" thru_hole circle (at 0 0 270) (size 0.001 0.001) (drill 7.62) (layers "*.Cu" "*.Mask") (tstamp 6a9d81d3-300b-4ab1-9b98-713f2aa508f2))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 537ba62a-7763-4d35-8125-d98eb8f3c267)
     (at 147.78645 110.7761)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -635,7 +635,7 @@
     (pad "HOLE" thru_hole circle (at 0 0 270) (size 0.001 0.001) (drill 1.524) (layers "*.Cu" "*.Mask") (tstamp 2f55d21d-c28c-466a-8a4e-c77119cc6e20))
   )
 
-  (footprint "vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
     (tstamp 58ef5b60-0305-4e80-a2d9-5d2276d5ac29)
     (at 135.31505 80.9311 -90)
     (fp_text reference "SW3" (at -4.8944 -3.5548 270 unlocked) (layer "F.SilkS") hide
@@ -673,7 +673,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 5e919fe6-ddd8-44a5-aa72-65a75868dd6a)
     (at 153.87945 86.9717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -688,7 +688,7 @@
       (thermal_bridge_angle 45) (tstamp e8ea77fa-311d-49f6-9b67-73c36e8b9b68))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 5ecfa5d3-a749-4ec8-ad32-e320d58dd3ae)
     (at 198.26365 107.6273)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -703,7 +703,7 @@
       (thermal_bridge_angle 45) (tstamp 5ddd7258-8b7f-47f5-98a3-d121659f1d24))
   )
 
-  (footprint "vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
     (tstamp 63c073d1-f3b7-4957-bbaf-6b9416732ca9)
     (at 98.05365 99.7693 -90)
     (fp_text reference "SW8" (at -4.8944 -3.5548 270 unlocked) (layer "F.SilkS") hide
@@ -741,7 +741,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 685fff81-1d48-4793-a3a2-b5bbbacd2dd2)
     (at 175.52365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -755,7 +755,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp b37f0977-c855-4f4d-9c14-a26d6abde7b3))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 6b30f9af-1c76-48a6-ac25-678972db0e4a)
     (at 96.27005 81.4273)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -770,7 +770,7 @@
       (solder_mask_margin 0.254) (tstamp ce715a33-6fe4-4fde-91bf-703baf1d991e))
   )
 
-  (footprint "vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
     (tstamp 6e8df278-7b82-4631-ae86-4a2427a6aa62)
     (at 135.31865 93.2415 -90)
     (fp_text reference "SW4" (at -4.8944 -3.5548 270 unlocked) (layer "F.SilkS") hide
@@ -808,7 +808,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 6efa60b9-ff03-40b3-b445-dd9996dba89f)
     (at 153.87945 89.0717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -823,7 +823,7 @@
       (net 3 "GND") (thermal_bridge_angle 45) (tstamp ea1a2c9e-9172-44e0-aed8-f936415631fb))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 722e91e9-26f1-493c-82f4-dff5226cb839)
     (at 96.02165 136.0913)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -837,7 +837,7 @@
     (pad "HOLE" thru_hole circle (at 0 0 270) (size 0.001 0.001) (drill 3.175) (layers "*.Cu" "*.Mask") (tstamp af17f07b-fa32-4fe9-8c25-c5fa51b987c3))
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
     (tstamp 74f14a73-8a5a-4ac3-a43c-a5ba93d25a8f)
     (at 96.52965 124.9407 -90)
     (fp_text reference "LY1" (at 1.60528 -1.35632 270 unlocked) (layer "B.SilkS") hide
@@ -859,7 +859,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 750b48e3-233f-4c69-a77d-bf9d3f5330d0)
     (at 153.87945 87.6717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -874,7 +874,7 @@
       (thermal_bridge_angle 45) (tstamp b4f760ad-d083-46e0-aff3-fdf190ae03f1))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 7a5f19fe-de19-4d2e-99d9-1662b21f3a39)
     (at 168.23345 106.5597)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -888,7 +888,7 @@
     (pad "SPK" smd circle (at 0 0) (size 3.81 3.81) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 86c02c2b-f843-443e-b5f9-6f8116092560))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 7ab5720f-bc76-47ce-ab51-ca5ba12d39d4)
     (at 157.87025 113.9257)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -902,7 +902,7 @@
     (pad "HOLE" thru_hole circle (at 0 0 270) (size 0.001 0.001) (drill 1.524) (layers "*.Cu" "*.Mask") (tstamp f46ce88c-b930-46c8-92c9-c89ab1863a86))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 7badde0b-e221-421d-9b09-8b3599990a33)
     (at 137.42365 131.0113)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -917,7 +917,7 @@
       (thermal_bridge_angle 45) (tstamp b211dc0a-9d06-44ee-b0ec-dea075357994))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 7c46597c-514e-4d2d-a7ae-0b76ad8d181b)
     (at 150.12365 131.0113)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -931,7 +931,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 1675a01f-dbaa-4199-8292-37f90bcdc8d5))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 7d8d07ab-14da-4e14-8d68-edc642048005)
     (at 153.87945 92.5717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -946,7 +946,7 @@
       (thermal_bridge_angle 45) (tstamp 203753cb-3971-4291-b3fc-3e09ff28161d))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 7ed68e83-1744-49b4-8f8c-abb140951a7d)
     (at 147.58365 131.0113)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -966,7 +966,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
     (tstamp 7fc83fe8-d933-41e3-97c6-6e109a127229)
     (at 150.81265 117.9713 -90)
     (fp_text reference "SW2" (at -4.8944 -3.5548 270 unlocked) (layer "F.SilkS") hide
@@ -1004,7 +1004,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 830f1f75-3e8b-4b7e-85c6-96b0048bc36a)
     (at 153.87945 86.2717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1024,7 +1024,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
     (tstamp 85918a95-23c3-4833-bce8-a50c5db78b20)
     (at 98.05365 81.3543 -90)
     (fp_text reference "SW7" (at -4.8944 -3.5548 270 unlocked) (layer "F.SilkS") hide
@@ -1062,7 +1062,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 8ccfa9ce-a180-48bb-b76b-b4781e8c5907)
     (at 153.87945 91.1717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1077,7 +1077,7 @@
       (net 3 "GND") (thermal_bridge_angle 45) (tstamp 414a915c-b4d3-40d1-8eb2-01610b99c37d))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 92a2d7b3-036d-4149-a559-7f49fbc405e0)
     (at 153.87945 93.9717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1092,7 +1092,7 @@
       (net 3 "GND") (thermal_bridge_angle 45) (tstamp 5b7a8062-e165-4083-b030-819029607bc1))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 962d6f03-00bc-4aa4-a701-06d4df713928)
     (at 185.68365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1106,7 +1106,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp d1d5db4e-237c-4382-bec6-411752e54ad0))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 98d1062e-6ae9-477b-945a-93bf0c123714)
     (at 139.96365 131.0113)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1121,7 +1121,7 @@
       (thermal_bridge_angle 45) (tstamp f5232120-56ce-481d-8f28-3110a59a7414))
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
     (tstamp 9a8dafc6-6a0d-4af2-b351-ba136a98b866)
     (at 100.08565 124.8899 -90)
     (fp_text reference "LY2" (at 1.60528 -1.35632 270 unlocked) (layer "B.SilkS") hide
@@ -1143,7 +1143,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 9a94d1d3-0aa4-4203-9709-29c5203ffe5c)
     (at 180.60365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1157,7 +1157,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp d45d022f-d5d1-4731-8541-7b2c5711c1e0))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 9b06a80c-b292-4d50-a960-6c23b8883631)
     (at 150.09005 85.5107)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1171,7 +1171,7 @@
     (pad "" thru_hole circle (at 0 0 270) (size 0.001 0.001) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp 95bb41fb-dc8c-4cda-98d9-9fc717e2b06d))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 9cfca57c-2561-4828-a7d9-f06eb7cb29bd)
     (at 170.44365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1185,7 +1185,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp e1223254-15d0-4690-bc40-36f389ba116d))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp 9f542049-61ba-41fb-a64e-b11523e08a5f)
     (at 199.90165 94.3273)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1200,7 +1200,7 @@
       (thermal_bridge_angle 45) (tstamp 3a338a72-8ef4-4bee-8ebb-88d65be7de43))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp a11ca411-21bf-4ace-9e58-bda29a6e7de5)
     (at 103.26065 129.1063)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1225,7 +1225,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp a22f8ef4-7917-46f7-a64d-3674e8c4f293)
     (at 199.65365 75.3853)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1239,7 +1239,7 @@
     (pad "HOLE" thru_hole circle (at 0 0 270) (size 0.001 0.001) (drill 7.62) (layers "*.Cu" "*.Mask") (tstamp 32d65d50-8164-49ab-9bf1-b801dcff2eb8))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp a5ac749d-5dad-4c49-82d2-ba810821c63e)
     (at 155.20365 131.0113)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1253,7 +1253,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 757964b0-07c4-4ba2-9a39-8e0d97a1171a))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp aaaa5bc6-16a7-4a08-8468-2e620b5d440e)
     (at 193.17665 136.0913)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1268,7 +1268,7 @@
       (solder_mask_margin 0.254) (tstamp 74400ec8-c835-47fc-9427-a148e406d5c5))
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
     (tstamp b8e35bcc-50b8-4cd8-8bc9-7c56a4128578)
     (at 105.03865 96.8737 -90)
     (fp_text reference "LY5" (at 1.60528 -1.35632 270 unlocked) (layer "B.SilkS") hide
@@ -1290,7 +1290,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
     (tstamp bb497e44-29b2-4c50-a77e-9e4a67463ecc)
     (at 108.59465 96.8229 -90)
     (fp_text reference "LY6" (at 1.60528 -1.35632 270 unlocked) (layer "B.SilkS") hide
@@ -1312,7 +1312,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p" (layer "F.Cu")
     (tstamp bbcf76b9-8a05-43f5-8a21-43ae892b7908)
     (at 163.03005 117.9713 -90)
     (fp_text reference "SW1" (at -4.8944 -3.5548 270 unlocked) (layer "F.SilkS") hide
@@ -1350,7 +1350,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp bf4977d1-e825-46d8-9825-2368d36f4511)
     (at 142.50365 131.0113)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1365,7 +1365,7 @@
       (thermal_bridge_angle 45) (tstamp 12f6735b-a87d-4b72-b909-e0583030782b))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp c1d28c29-0253-43b9-a964-b5554c7f2878)
     (at 162.82365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1379,7 +1379,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp c4cf5293-6394-40c7-9dd2-a037d8155858))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp c8a9453b-188b-4d44-b2ff-1d57fbde71ff)
     (at 178.06365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1393,7 +1393,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 3a12037d-7b91-4ed3-9d05-508b9f5d43d7))
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603" (layer "F.Cu")
     (tstamp cb048c10-bc96-441b-a831-b14c2faf830c)
     (at 105.03865 81.5067 -90)
     (fp_text reference "LY7" (at 1.60528 -1.35632 270 unlocked) (layer "B.SilkS") hide
@@ -1415,7 +1415,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp ce1a362d-9a49-4811-ad75-7a2ced6d4eb6)
     (at 182.45745 123.6285)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1430,7 +1430,7 @@
       (solder_mask_margin 0.254) (tstamp 26056577-209b-4060-bc25-71cac399b516))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp d82e8224-09cd-4127-9c80-47c2cf9ae371)
     (at 183.14365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1444,7 +1444,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 3fe7c4f8-26b1-41be-bfa6-d80155d50bb4))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp d98ccb2a-156c-464e-8cf8-185b88226466)
     (at 198.26365 102.6273)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1459,7 +1459,7 @@
       (thermal_bridge_angle 45) (tstamp e7183a49-12a6-498a-abf0-da74f8bad721))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp d9a5f941-6567-424c-9c8c-4cc53a02f456)
     (at 153.87945 90.4717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1474,7 +1474,7 @@
       (net 3 "GND") (thermal_bridge_angle 45) (tstamp f8bf4122-352a-4764-a390-4141ae066f69))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp da30bb13-438b-4de6-9830-871a76306df8)
     (at 153.87945 91.8717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1489,7 +1489,7 @@
       (thermal_bridge_angle 45) (tstamp 4fb8afa4-ee10-48e6-9acd-5bc5ee2882a0))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp dcd69f5d-5742-4a24-a878-d9229043063c)
     (at 167.90365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1503,7 +1503,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 735f3845-dfec-46cd-90a9-52617a09a8a8))
   )
 
-  (footprint "vector-orig:key 12x12 SMD" (layer "F.Cu")
+  (footprint ".vector-orig:key 12x12 SMD" (layer "F.Cu")
     (tstamp dce37c31-eadf-4e75-a3fb-177eee10dc46)
     (at 177.80965 120.4449)
     (fp_text reference "SW10" (at -5.6466 -9.55243 unlocked) (layer "F.SilkS") hide
@@ -1553,7 +1553,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp e13ad4c1-5b5f-429b-8384-bc7ef75d794c)
     (at 185.46631 76.6299)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1567,7 +1567,7 @@
     (pad "3V" thru_hole circle (at 0 0 90) (size 1.5748 1.5748) (drill 0.889) (layers "*.Cu" "*.Mask") (tstamp 4053d96b-7232-405a-aca1-bcdb81a91921))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp e859472b-cca7-4bc7-8256-cfd9c77a8d2b)
     (at 153.87945 93.2717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1582,7 +1582,7 @@
       (net 3 "GND") (thermal_bridge_angle 45) (tstamp 21577521-2f9e-4612-a025-40787236aed2))
   )
 
-  (footprint "vector-orig:key 12x12 SMD" (layer "F.Cu")
+  (footprint ".vector-orig:key 12x12 SMD" (layer "F.Cu")
     (tstamp e9e1ec44-ff3c-4e39-9344-c0fbeb6df695)
     (at 118.24665 80.8463)
     (fp_text reference "SW11" (at -5.6466 -9.55243 unlocked) (layer "F.SilkS") hide
@@ -1632,7 +1632,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp eb3d5df9-64d4-4399-838a-3d8098a324a1)
     (at 134.88365 131.0113)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1652,7 +1652,7 @@
     )
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp eb430e55-cb9c-453a-b616-5385e3710cae)
     (at 152.66365 131.0113)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1666,7 +1666,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 551c3de5-0b8b-4360-b736-e303cca6d353))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp f0ba37bd-c920-45a6-8ece-ecd1894cb374)
     (at 153.87945 88.3717)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1681,7 +1681,7 @@
       (thermal_bridge_angle 45) (tstamp 29e5fc1d-6e11-4c11-801b-ff1c9c42dfeb))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp f4062703-1fbf-4617-abcb-81ae0c228352)
     (at 188.22365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1696,7 +1696,7 @@
       (net 2 "3V3") (tstamp 8727b459-78c8-4067-b176-dbeb4ad0cf4e))
   )
 
-  (footprint "vector-orig:" (layer "F.Cu")
+  (footprint ".vector-orig:" (layer "F.Cu")
     (tstamp fe98d8ae-1031-4ec0-bc9a-9daa89b02ab2)
     (at 165.36365 135.9643)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
@@ -1710,7 +1710,7 @@
     (pad "" thru_hole circle (at 0 0 180) (size 1.778 1.778) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 02b42343-62aa-4039-8d85-1913bb769669))
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 036ac46b-7e59-4d2c-a103-305029f445e8)
     (at 134.04505 123.1459 180)
     (fp_text reference "C17" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -1744,7 +1744,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 0cea2544-a50d-483e-9895-1fc3be3e481d)
     (at 168.86845 121.7997 180)
     (fp_text reference "R6" (at 2.36216 1.44784 unlocked) (layer "F.SilkS") hide
@@ -1778,7 +1778,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_PICO" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_PICO" (layer "B.Cu")
     (tstamp 1033f3a5-6099-4e2b-b85c-488dcd59ed12)
     (at 127.94945 94.8163 -90)
     (fp_text reference "M1" (at -24.6802 13.564 90 unlocked) (layer "B.SilkS") hide
@@ -1893,7 +1893,7 @@
     )
   )
 
-  (footprint "vector-orig:SOT-23" (layer "B.Cu")
+  (footprint ".vector-orig:SOT-23" (layer "B.Cu")
     (tstamp 15462439-1209-42f7-ad39-659b7386b406)
     (at 152.30765 77.0449)
     (fp_text reference "T1" (at -10.53861 -32.85667 180 unlocked) (layer "B.SilkS") hide
@@ -1927,7 +1927,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 1ae5bd88-b2a7-46f6-8acf-e15c5b0a244f)
     (at 161.06365 93.9273 180)
     (fp_text reference "R1" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -1961,7 +1961,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 1dd23322-b3ca-4730-929d-6bdfafa4068a)
     (at 128.76185 123.0189 180)
     (fp_text reference "C6" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -1995,7 +1995,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 22894da1-e2d6-4124-9de8-2db750365104)
     (at 168.86845 117.6087 180)
     (fp_text reference "C15" (at 2.36216 -1.44784 180 unlocked) (layer "F.SilkS") hide
@@ -2029,7 +2029,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 2e68786f-6043-481b-bbc2-485505248d6a)
     (at 130.41285 132.0867)
     (fp_text reference "C7" (at 2.36215 1.44784 180 unlocked) (layer "F.SilkS") hide
@@ -2063,7 +2063,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 3317c25d-8b93-4f16-b5da-2d443d37bd46)
     (at 167.34445 123.9079)
     (fp_text reference "R7" (at 2.36215 1.44784 180 unlocked) (layer "F.SilkS") hide
@@ -2097,7 +2097,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 33e3498b-995a-457b-a50a-244b989f5685)
     (at 172.57685 121.7997 180)
     (fp_text reference "R3" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2131,7 +2131,7 @@
     )
   )
 
-  (footprint "vector-orig:0805" (layer "B.Cu")
+  (footprint ".vector-orig:0805" (layer "B.Cu")
     (tstamp 37288139-0e02-46eb-ad4c-01b7ef122a17)
     (at 162.69625 125.9145 180)
     (fp_text reference "L1" (at 32.54833 -2.23281 90 unlocked) (layer "B.SilkS") hide
@@ -2165,7 +2165,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 3e9b4369-b95c-4edf-896a-744d13939363)
     (at 164.59065 93.9273 180)
     (fp_text reference "R2" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2199,7 +2199,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 4a7b42dd-bff6-497d-bb46-db449098474e)
     (at 118.62725 134.2965)
     (fp_text reference "R8" (at 2.36215 1.44784 180 unlocked) (layer "F.SilkS") hide
@@ -2233,7 +2233,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_Tantal" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_Tantal" (layer "B.Cu")
     (tstamp 4db21c7e-135e-4c94-aa7c-9c08ea2673a1)
     (at 171.26725 92.4919 90)
     (fp_text reference "C1" (at -3.4544 3.23971 270 unlocked) (layer "B.SilkS") hide
@@ -2267,7 +2267,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 51b4822f-ce08-490c-a995-cb5fc22211ed)
     (at 172.06885 102.8259 180)
     (fp_text reference "R9" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2301,7 +2301,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 5a5ef8ee-8e0e-4f45-a9ba-2c8dca9cba6e)
     (at 125.48525 123.0189 180)
     (fp_text reference "C5" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2335,7 +2335,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 5ea171ff-65ec-473a-92ca-b55c403c60ab)
     (at 131.93685 129.9531 180)
     (fp_text reference "C20" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2369,7 +2369,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_MSOP8" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_MSOP8" (layer "B.Cu")
     (tstamp 60a4f1b9-0180-41c5-8766-7900afa85fd2)
     (at 167.75085 111.6143 180)
     (fp_text reference "U4" (at -5.8928 -2.032 270 unlocked) (layer "B.SilkS")
@@ -2415,7 +2415,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 6822de9d-7aa8-47ac-ab36-c227e50243f4)
     (at 134.04505 125.2033 180)
     (fp_text reference "C18" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2449,7 +2449,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 6fc037ce-1c47-4601-b80a-3a6c5f251bd6)
     (at 172.57685 119.7169 180)
     (fp_text reference "R4" (at 2.36216 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2483,7 +2483,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 84519533-5385-4346-9d6c-36797e0b25e7)
     (at 172.57685 123.9079 180)
     (fp_text reference "C14" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2512,7 +2512,7 @@
       (thermal_bridge_angle 45) (tstamp b665eaa0-de9b-47fe-aaf5-fc22b5beab92))
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 90ad4601-1c98-406c-87c5-c5b31ac008a2)
     (at 133.63865 134.2965)
     (fp_text reference "C8" (at 2.36215 1.44784 180 unlocked) (layer "F.SilkS") hide
@@ -2546,7 +2546,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp 989ecccb-9fbb-4289-bfeb-057a22909ae0)
     (at 122.20865 123.0189 180)
     (fp_text reference "C4" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2580,7 +2580,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp a718cd1c-a382-47ad-86b6-d9598422a5e4)
     (at 148.47225 124.9493 180)
     (fp_text reference "C12" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2614,7 +2614,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp ab37887f-71ed-4467-a1d4-0186a5b736ea)
     (at 167.34445 128.0481)
     (fp_text reference "R13" (at 2.36215 1.44784 180 unlocked) (layer "F.SilkS") hide
@@ -2648,7 +2648,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp af091555-6f75-4c46-9fc0-ada891f454ce)
     (at 131.87805 134.2965 180)
     (fp_text reference "C9" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2682,7 +2682,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp b3104e6b-0397-408c-9bb8-72eeee0312b4)
     (at 148.47225 126.9051 180)
     (fp_text reference "C13" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2716,7 +2716,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp bc170e6c-a70f-452a-ab1f-33af95112c69)
     (at 170.57025 98.1523)
     (fp_text reference "R11" (at 2.36215 1.44784 180 unlocked) (layer "F.SilkS") hide
@@ -2750,7 +2750,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp be5c655b-9532-4ee9-a561-1db8a5a6c977)
     (at 171.05285 117.5833)
     (fp_text reference "C16" (at 2.36215 1.44784 180 unlocked) (layer "F.SilkS") hide
@@ -2784,7 +2784,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp cc1e9517-5f75-4c36-88eb-c12f1f2b7736)
     (at 127.08545 134.2965)
     (fp_text reference "C10" (at 2.36215 1.44784 180 unlocked) (layer "F.SilkS") hide
@@ -2818,7 +2818,7 @@
     )
   )
 
-  (footprint "vector-orig:SOT-23" (layer "B.Cu")
+  (footprint ".vector-orig:SOT-23" (layer "B.Cu")
     (tstamp d2501e81-70fc-4ed0-9af7-3c7c314dfce0)
     (at 118.39865 130.1309)
     (fp_text reference "ZD1" (at -8.78601 -32.93287 180 unlocked) (layer "B.SilkS") hide
@@ -2852,7 +2852,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp d36de0aa-c894-46dd-bd41-8a8bf2857b0e)
     (at 172.57685 128.0227 180)
     (fp_text reference "R12" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2886,7 +2886,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp d754dce3-2c66-46f3-94fa-52fda3bc7957)
     (at 168.86845 119.7169 180)
     (fp_text reference "R5" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2920,7 +2920,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp d7e13036-ffb7-466c-8ccf-b78a3e59af16)
     (at 132.95285 127.3877 180)
     (fp_text reference "C19" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -2954,7 +2954,7 @@
     )
   )
 
-  (footprint "vector-orig:AK4619" (layer "B.Cu")
+  (footprint ".vector-orig:AK4619" (layer "B.Cu")
     (tstamp dadec703-83a8-4760-abe7-c1877608c342)
     (at 123.27545 126.2447)
     (fp_text reference "U1" (at -3.048 1.2954 270 unlocked) (layer "B.SilkS")
@@ -3074,7 +3074,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_Tantal" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_Tantal" (layer "B.Cu")
     (tstamp dbaed1e0-65cd-448a-8b6c-cf84e49667d8)
     (at 154.66744 125.9907)
     (fp_text reference "C2" (at -3.4544 2.1844 180 unlocked) (layer "B.SilkS") hide
@@ -3108,7 +3108,7 @@
     )
   )
 
-  (footprint "vector-orig:TSSOP 14" (layer "B.Cu")
+  (footprint ".vector-orig:TSSOP 14" (layer "B.Cu")
     (tstamp e21fe939-3d1f-412c-92a6-3e8895995c52)
     (at 141.69045 125.8637 180)
     (fp_text reference "U2" (at -0.635 2.5654 unlocked) (layer "B.SilkS")
@@ -3166,7 +3166,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_TQFN24" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_TQFN24" (layer "B.Cu")
     (tstamp e3885cf1-998c-440f-ad63-aa341a5eaa46)
     (at 164.06785 87.1795)
     (fp_text reference "U3" (at -3.5306 4.8514 180 unlocked) (layer "B.SilkS") hide
@@ -3244,7 +3244,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp e3d75cb1-ce8f-498a-b057-3f08e4c51aac)
     (at 123.78345 134.2965)
     (fp_text reference "C11" (at 2.36215 1.44784 180 unlocked) (layer "F.SilkS") hide
@@ -3278,7 +3278,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp f3169ab8-1692-41b0-9a4f-735b5a4a7555)
     (at 168.11765 93.9273 180)
     (fp_text reference "C3" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
@@ -3312,7 +3312,7 @@
     )
   )
 
-  (footprint "vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
+  (footprint ".vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C" (layer "B.Cu")
     (tstamp fe0d7b66-7c5c-4832-a619-737c0a1db324)
     (at 172.06885 100.4891 180)
     (fp_text reference "R10" (at 2.36215 1.44784 unlocked) (layer "F.SilkS") hide
