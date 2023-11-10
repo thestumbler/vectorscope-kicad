@@ -1,6 +1,8 @@
 # Hackaday Supercon 2023 Vectorscope 
 ### KiCad Redrawing Project
 
+![](vectorscope-sch.png)
+
 This is a port of the Vectorscope schematics into KiCad. 
 It is also a partially-complete KiCad project using Voja Antonic's original 
 Circuit Maker PCB design as converted into KiCad PCB format by Thomas Flummer.
@@ -90,4 +92,3 @@ Note 2: Tantalum Kemet T packate is EIA 3528, which is a bit largeer than
 an EIA 1210 resistor.
 
 
-![](vectorscope-sch.png)
