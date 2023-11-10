@@ -1,0 +1,121 @@
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+SW12	Comment	vector-orig:key 12x12 SMD
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+SW5	tactile key	vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+LY4	[NoVal]	vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603
+LY3	[NoVal]	vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+SW6	tactile key	vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p
+SW9	tactile key	vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+LY8	[NoVal]	vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603
+SW13	Comment	vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_JOYSTICK 2
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+SW3	tactile key	vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+SW8	tactile key	vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+SW4	tactile key	vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+LY1	[NoVal]	vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+SW2	tactile key	vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p
+[NoRef]	[NoVal]	vector-orig:
+SW7	tactile key	vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+LY2	[NoVal]	vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+LY5	[NoVal]	vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603
+LY6	[NoVal]	vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603
+SW1	tactile key	vector-orig:_Users_Voja_Documents_GitHub_willo-pcb_ESP.PcbLib_key4p
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+LY7	[NoVal]	vector-orig:_Users_Voja_Desktop_ESP.PcbLib_LED0603
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+SW10	Comment	vector-orig:key 12x12 SMD
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+SW11	Comment	vector-orig:key 12x12 SMD
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+[NoRef]	[NoVal]	vector-orig:
+C17	100nF	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+R6	4K7	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+M1	PICO	vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_PICO
+T1	DMN65D8L-7	vector-orig:SOT-23
+R1	22R	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C6	2u2	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C15	2u2	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C7	2u2	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+R7	4K7	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+R3	47K	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+L1	100nF	vector-orig:0805
+R2	2K7	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+R8	82R	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C1	22uF	vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_Tantal
+R9	330R	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C5	2u2	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C20	100nF	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+U4	TPA321	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_MSOP8
+C18	100nF	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+R4	22K	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C14	100nF	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C8	2u2	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C4	100nF	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C12	2u2	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+R13	2K7	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C9	2u2	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C13	100nF	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+R11	330R	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C16	2u2	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C10	100nF	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+ZD1	LM4040	vector-orig:SOT-23
+R12	2K7	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+R5	4K7	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C19	100nF	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+U1	AK4619	vector-orig:AK4619
+C2	22uF	vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_Tantal
+U2	LMV324	vector-orig:TSSOP 14
+U3	TLC59283	vector-orig:_Users_Voja_Desktop_Projekti_Gio.PcbLib_TQFN24
+C11	100nF	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+C3	100nF	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C
+R10	330R	vector-orig:_Users_Voja_Desktop_CUBE_ESP.PcbLib_TANTALUM KEMET C

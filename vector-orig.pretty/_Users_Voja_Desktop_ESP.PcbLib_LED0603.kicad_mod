@@ -1,0 +1,20 @@
+(footprint "_Users_Voja_Desktop_ESP.PcbLib_LED0603" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 1.60528 -1.35632 unlocked) (layer "B.SilkS") hide
+      (effects (font (size 0.762 0.762) (thickness 0.1905)) (justify left bottom mirror))
+    (tstamp 633803b2-eba7-466b-b85f-267a1129ab37)
+  )
+  (fp_text value "" (at -1518.485687 76.962 unlocked) (layer "B.SilkS") hide
+      (effects (font (size 0.762 0.762) (thickness 0.1905)) (justify left bottom mirror))
+    (tstamp 06b72064-af19-4ac7-9e78-ddb7ff996625)
+  )
+  (pad "" smd roundrect (at 1.0414 0) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.33)
+    (thermal_bridge_angle 45) (tstamp fa2de7d1-c2a0-46f9-bc8a-00ec84732cc5))
+  (pad "+" smd roundrect (at -1.0414 0) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.33)
+    (thermal_bridge_angle 45) (tstamp fbcc4690-f9ac-4e02-8049-b688e875b0bd))
+  (model "${KICAD7_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric_Castellated.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
